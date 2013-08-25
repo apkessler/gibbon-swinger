@@ -1,0 +1,30 @@
+C:\Users\Andrew\Desktop\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Physics Engine 3.3 XNA\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\Andrew\Desktop\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Physics Engine 3.3 XNA\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\Andrew\Desktop\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrew\Desktop\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\Andrew\Desktop\Farseer Physics Engine 3.3.1 Samples XNA\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\game2\game2\Farseer Physics Engine 3.3 XNA\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\game2\game2\Farseer Physics Engine 3.3 XNA\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\game2\game2\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\game2\game2\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\game2\game2\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\game2\game2\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\msi\game2\game2\Farseer Physics Engine 3.3 XNA\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\msi\game2\game2\Farseer Physics Engine 3.3 XNA\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\msi\game2\game2\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\msi\game2\game2\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\msi\game2\game2\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\msi\game2\game2\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\Andrew\Desktop\GibbonSwinger\game2\Farseer Physics Engine 3.3 XNA\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\Andrew\Desktop\GibbonSwinger\game2\Farseer Physics Engine 3.3 XNA\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\Andrew\Desktop\GibbonSwinger\game2\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\GibbonSwinger\game2\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrew\Desktop\GibbonSwinger\game2\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\Andrew\Desktop\GibbonSwinger\game2\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\Farseer Physics Engine 3.3 XNA\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\Farseer Physics Engine 3.3 XNA\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\Farseer Physics Engine 3.3 XNA\obj\x86\Debug\FarseerPhysicsXNA.pdb

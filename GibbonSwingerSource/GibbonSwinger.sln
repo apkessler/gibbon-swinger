@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gibbon Swinger", "game2\game2\Gibbon Swinger.csproj", "{9687F422-A2E8-4918-B377-AD21D3A69A41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "game2Content", "game2\game2Content\game2Content.contentproj", "{8D6DE4F4-2A20-4626-B348-C9545134F3BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farseer Physics XNA", "game2\Farseer Physics Engine 3.3 XNA\Farseer Physics XNA.csproj", "{0A850700-1ABB-4288-A391-6726B90EBEB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9687F422-A2E8-4918-B377-AD21D3A69A41}.Debug|x86.ActiveCfg = Debug|x86
+		{9687F422-A2E8-4918-B377-AD21D3A69A41}.Debug|x86.Build.0 = Debug|x86
+		{9687F422-A2E8-4918-B377-AD21D3A69A41}.Release|x86.ActiveCfg = Release|x86
+		{9687F422-A2E8-4918-B377-AD21D3A69A41}.Release|x86.Build.0 = Release|x86
+		{8D6DE4F4-2A20-4626-B348-C9545134F3BB}.Debug|x86.ActiveCfg = Debug|x86
+		{8D6DE4F4-2A20-4626-B348-C9545134F3BB}.Release|x86.ActiveCfg = Release|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Debug|x86.ActiveCfg = Debug|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Debug|x86.Build.0 = Debug|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Release|x86.ActiveCfg = Release|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

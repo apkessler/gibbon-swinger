@@ -1,0 +1,4 @@
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\game2\game2\game2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Visual Studio 2010\Projects\msi\game2\game2\game2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\GibbonSwinger\game2\game2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2Content\obj\x86\Debug\ResolveAssemblyReference.cache

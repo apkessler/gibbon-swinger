@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>circleSprite.png</Source>
+      <Name>circleSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\circleSprite.xnb</Output>
+      <Time>2012-03-21T17:55:41.1450252-07:00</Time>
+    </Item>
+    <Item>
+      <Source>groundSprite.png</Source>
+      <Name>groundSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\groundSprite.xnb</Output>
+      <Time>2012-03-21T17:55:41.1450252-07:00</Time>
+    </Item>
+    <Item>
+      <Source>rectSprite.png</Source>
+      <Name>rectSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\rectSprite.xnb</Output>
+      <Time>2012-03-21T18:35:25.0103433-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Bee.png</Source>
+      <Name>Bee</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\Bee.xnb</Output>
+      <Time>2012-03-23T08:00:31.8654819-07:00</Time>
+    </Item>
+    <Item>
+      <Source>cloudSprite.png</Source>
+      <Name>cloudSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\cloudSprite.xnb</Output>
+      <Time>2012-03-23T08:00:31.8734824-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HealthBarFill.png</Source>
+      <Name>HealthBarFill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\HealthBarFill.xnb</Output>
+      <Time>2012-03-23T10:54:45.0770405-07:00</Time>
+    </Item>
+    <Item>
+      <Source>HealthBarBorder.png</Source>
+      <Name>HealthBarBorder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\HealthBarBorder.xnb</Output>
+      <Time>2012-03-23T10:48:43.1437543-07:00</Time>
+    </Item>
+    <Item>
+      <Source>bananas.png</Source>
+      <Name>bananas</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\bananas.xnb</Output>
+      <Time>2012-03-26T12:10:51.9063038-07:00</Time>
+    </Item>
+    <Item>
+      <Source>gibbon_body.png</Source>
+      <Name>gibbon_body</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\gibbon_body.xnb</Output>
+      <Time>2012-03-28T11:38:47.2845876-07:00</Time>
+    </Item>
+    <Item>
+      <Source>gibbon_arm.png</Source>
+      <Name>gibbon_arm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\gibbon_arm.xnb</Output>
+      <Time>2012-03-28T11:46:58.6919837-07:00</Time>
+    </Item>
+    <Item>
+      <Source>gibbon_arm2.png</Source>
+      <Name>gibbon_arm2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\gibbon_arm2.xnb</Output>
+      <Time>2012-03-29T07:15:21.3006511-07:00</Time>
+    </Item>
+    <Item>
+      <Source>trees1.png</Source>
+      <Name>trees1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\trees1.xnb</Output>
+      <Time>2012-04-02T08:44:33.5849265-07:00</Time>
+    </Item>
+    <Item>
+      <Source>trees2.png</Source>
+      <Name>trees2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\trees2.xnb</Output>
+      <Time>2012-04-02T08:44:33.5859265-07:00</Time>
+    </Item>
+    <Item>
+      <Source>jungle.jpg</Source>
+      <Name>jungle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\jungle.xnb</Output>
+      <Time>2012-04-02T11:21:44.8823841-07:00</Time>
+    </Item>
+    <Item>
+      <Source>jungle2.jpg</Source>
+      <Name>jungle2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\jungle2.xnb</Output>
+      <Time>2012-04-02T11:28:02.3361597-07:00</Time>
+    </Item>
+    <Item>
+      <Source>trees5.png</Source>
+      <Name>trees5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\trees5.xnb</Output>
+      <Time>2012-04-04T10:43:01.6038397-07:00</Time>
+    </Item>
+    <Item>
+      <Source>trees6.png</Source>
+      <Name>trees6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\trees6.xnb</Output>
+      <Time>2012-04-04T10:43:01.6048398-07:00</Time>
+    </Item>
+    <Item>
+      <Source>scrollbg.png</Source>
+      <Name>scrollbg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\scrollbg.xnb</Output>
+      <Time>2012-04-07T18:17:44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>staticbg.png</Source>
+      <Name>staticbg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\staticbg.xnb</Output>
+      <Time>2012-04-08T15:15:27.794151-07:00</Time>
+    </Item>
+    <Item>
+      <Source>startscreen.png</Source>
+      <Name>startscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\startscreen.xnb</Output>
+      <Time>2012-04-09T04:50:17-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2012-03-26T12:46:51.3352335-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2012-03-26T14:01:33.8898783-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont3.spritefont</Source>
+      <Name>SpriteFont3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\SpriteFont3.xnb</Output>
+      <Time>2012-03-26T14:55:41.164512-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont4.spritefont</Source>
+      <Name>SpriteFont4</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\SpriteFont4.xnb</Output>
+      <Time>2012-04-07T16:09:44.0208564-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont5.spritefont</Source>
+      <Name>SpriteFont5</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\SpriteFont5.xnb</Output>
+      <Time>2012-04-07T16:19:34.1114131-07:00</Time>
+    </Item>
+    <Item>
+      <Source>pacman_death.wav</Source>
+      <Name>pacman_death</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\pacman_death.xnb</Output>
+      <Time>2012-03-29T08:39:22.6217493-07:00</Time>
+    </Item>
+    <Item>
+      <Source>pacman_eatfruit.wav</Source>
+      <Name>pacman_eatfruit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\pacman_eatfruit.xnb</Output>
+      <Time>2012-03-29T08:46:22.1971256-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DonkeyKong.mp3</Source>
+      <Name>DonkeyKong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\DonkeyKong.xnb</Output>
+      <Extra>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\DonkeyKong.wma</Extra>
+      <Time>2012-03-29T09:21:47.8422997-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Andrew\Desktop\New folder\GibbonSwingerSource\game2\game2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T09:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T09:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T09:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T09:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T09:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T09:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-19T16:45:49.1305867-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
